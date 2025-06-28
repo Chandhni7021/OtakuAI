@@ -1,0 +1,2 @@
+# OtakuAI
+Anime Recommendation System
