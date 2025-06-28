@@ -1,7 +1,9 @@
 🎌 OtakuAI: Anime Recommendation System
+
 "Your personalized anime concierge powered by LLaMA3 + LangChain"
 
 📌 Overview
+
 OtakuAI is an interactive AI-powered anime recommendation system that suggests anime titles tailored to your interests. Just type in your mood, favorite genres, or keywords like "romantic comedy" or "dark fantasy", and OtakuAI delivers three spot-on recommendations — complete with summaries and reasons you'll love them!
 
 
@@ -17,6 +19,7 @@ Built using:
 
 
 ✨ Features
+
 🔍 Semantic understanding of your query using LLMs
 
 🎥 Anime recommendations with title, summary, and reasoning
@@ -31,6 +34,7 @@ Built using:
 
 
 🧰 Tech Stack
+
 Python 3.x
 
 Gradio for UI
@@ -85,6 +89,7 @@ The app will open in your browser with a simple interface to get recommendations
 
 
 💡 Use Cases
+
 Discover new anime based on genres, themes, or vibes
 
 Use as a fun chatbot for anime enthusiasts
@@ -93,6 +98,7 @@ Integrate into larger entertainment recommendation platforms
 
 
 📂 Dataset Info
+
 Dataset source: anime_with_synopsis.csv
 
 Total rows: ~14,000+ anime titles
@@ -101,6 +107,7 @@ Format: Name, sypnopsis, Genres
 
 
 🔮 Future Ideas
+
 Collaborative filtering + LLM hybrid
 
 User profile-based recommendations
